@@ -28,6 +28,7 @@ html, body {
     margin: 2rem;
     border-radius: calc(var(--FontSize) / 4);
     font-size: var(--FontSize);
+    max-width: 375px;
 }
 
 @media screen and (min-width: 640px) {
